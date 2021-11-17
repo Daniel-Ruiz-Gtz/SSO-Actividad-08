@@ -47,6 +47,6 @@ Para la entrega del programa deberá realizar un video con las especificaciones 
 • Datos de la materia<br>
 • Número de actividad<br>
 • Objetivo de la actividad<br>
-• Notas acerca del lenguaje, como soluciono y conclusiones.<br>
+• Notas acerca del lenguaje, como soluciono y conclusiones. <br><br>
 **Entregables:**<br>
 Código fuente (si el lenguaje en el que trabaja lo permite entregue el ejecutable), reporte y video de no más de 5 minutos. Para el video puede dejar la liga en el mismo reporte y subir el video a drive o YouTube. Deberá subir un solo archivo (si es necesario en comprimido) a la plataforma de moodle2, en tiempo y forma. El nombre del archivo deberá estar compuesto por su primer apellido, su primer nombre, sección y número de actividad, por ejemplo: BecerraVioletaD01Act6.pdf. Si se pasa de la fecha de entrega tendrá oportunidad de entrega tardía en Classroom con un menor puntaje.
