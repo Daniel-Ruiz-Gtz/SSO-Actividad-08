@@ -10,7 +10,6 @@ Tecla ¿Qué indica? ¿Qué hace?
     -	C Continuar Al presionar esta tecla se reanudará el programa pausado previamente con “P”.
     - N Nuevo Al presionar esta tecla se generará un nuevo proceso, creando con ello los datos necesarios de forma aleatoria. El planificador a largo plazo es el que definirá su ingreso al sistema (recordar el máximo de procesos en memoria).
     - B Tabla de procesos (BCP de cada proceso) Al presionar esta tecla el programa se pausara y se deberá visualizar la tabla de procesos, es decir los BCP de cada uno de los procesos. Con la tecla “C” continua la simulación de su programa en el punto donde quedó.
-
 4. Los datos a mostrar en la tabla de procesos (cuando se presiona la tecla B) son:
 - Identificador del proceso.
 - Estado del proceso. En este punto debe considerar lo siguiente: si el proceso es nuevo, los campos siguientes serán nulos, si el proceso es terminado debe señalar si fue terminado por error o normalmente, si el proceso es bloqueado hay que mostrar el tiempo restante en dicho estado.
@@ -25,20 +24,20 @@ Tecla ¿Qué indica? ¿Qué hace?
 5. Deberá mostrarse en pantalla:
 - Listar número de procesos en estado Nuevo, actualizar ya sea porque pasan a Listos o bien por que ingresan nuevos (tecla “N”).
 - Cola de listos:
- - Identificador de Proceso.
- - Tiempo Máximo Estimado.
- - Tiempo Restante.
+    - Identificador de Proceso.
+    - Tiempo Máximo Estimado.
+    - Tiempo Restante.
 - Proceso en Ejecución:
- - Se mostraran todos los datos correspondientes al proceso.
- - Tiempo transcurrido en ejecución.
- - Tiempo restante por ejecutar.
+    - Se mostraran todos los datos correspondientes al proceso.
+    - Tiempo transcurrido en ejecución.
+    - Tiempo restante por ejecutar.
 - Cola de Bloqueados
- - Identificador de Proceso.
- - Tiempo transcurrido en bloqueado.
+    - Identificador de Proceso.
+    - Tiempo transcurrido en bloqueado.
 - Procesos Terminados
- - Identificador de Proceso.
- - Operación.
- - Resultado de la operación o bien ERROR cuando el proceso haya sido terminado con la tecla “W”.
+    - Identificador de Proceso.
+    - Operación.
+    - Resultado de la operación o bien ERROR cuando el proceso haya sido terminado con la tecla “W”.
 - Reloj, es decir, el contador del tiempo total transcurrido desde el inicio de la simulación hasta su término.
 6. El programa terminará cuando todos los procesos se hayan ejecutado (pausar la pantalla al terminar para observar).
 7. Mostrar al finalizar todos los datos de cada proceso, es decir, la tabla de procesos.
